@@ -12,12 +12,6 @@ I’m an NLP researcher with a special focus on **Social NLP** and a bit of **Gr
 
 ---
 
-## 🔭 Education
-- **Data Science:** Ph.D. Data Science and Engineering.
-- **Mathematics:** B.Sc.(H) Mathematics and M.Sc. Mathematics.
-
----
-
 ## 🌱 Learning and Exploring
 I’m currently diving deeper into:
 - **Few-shot and In-context Learning** for NLP applications.
@@ -26,6 +20,13 @@ I’m currently diving deeper into:
 - **Graph-based techniques** for link prediction in multiplex networks.
 
 ---
+
+## 🔭 Education
+- **Data Science:** Ph.D. Data Science and Engineering.
+- **Mathematics:** B.Sc.(H) Mathematics and M.Sc. Mathematics.
+
+---
+
 
 ## 🏸 Outside of Research
 When I'm not working on NLP or ML projects, you'll find me enjoying a game of **badminton** 🏸 and staying active. Sometimes, you'll catch me playing **cricket** 🏏 or **football** ⚽ too. 
