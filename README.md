@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I am Debajyoti Mazumder 👋
+
+### NLP Researcher | Social NLP | Graph ML 
+
+I’m an NLP researcher with a special focus on **Social NLP** and a bit of **Graph Machine Learning** as well. 
+
+---
+
+## 🔭 Current Focus
+- **Social NLP:** Exploring the impact of philosophical methods on multilingual LLMs for enhancing NLP tasks (like hate detection) in code-mixed setting.
+- **Graph ML:** Exploring link prediction in multiplex networks.
+
+---
+
+## 🔭 Education
+- **Data Science:** Ph.D. Data Science and Engineering.
+- **Mathematics:** B.Sc.(H) Mathematics and M.Sc. Mathematics.
+
+---
+
+## 🌱 Learning and Exploring
+I’m currently diving deeper into:
+- **Few-shot and In-context Learning** for NLP applications.
+- **Finetuning Pretrained Models** for social NLP applications.
+- **Multilinguality** in social NLP.
+- **Graph-based techniques** for link prediction in multiplex networks.
+
+---
+
+## 🏸 Outside of Research
+When I'm not working on NLP or ML projects, you'll find me enjoying a game of **badminton** 🏸 and staying active. Sometimes, you'll catch me playing **cricket** 🏏 or **football** ⚽ too. 
+
+---
+
+
+## 📫 How to Reach Me
+Feel free to connect with me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debamaz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debajyotimaz@gmail.com)
+
+
+---
 
 <!--
-**debajyotimaz/debajyotimaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fun Fact:  
+I find the intersection of **language** and **mathematical structures** fascinating. Whether it’s decoding humor in different languages or analyzing social interactions, I’m always curious about how data shapes the human experience.
+--!>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
