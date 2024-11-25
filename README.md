@@ -14,16 +14,17 @@ I’m an NLP researcher with a special focus on **Social NLP** and a bit of **Gr
 
 ## 🌱 Learning and Exploring
 I’m currently diving deeper into:
-- **Few-shot and In-context Learning** for NLP applications.
-- **Finetuning Pretrained Models** for social NLP applications.
-- **Multilinguality** in social NLP.
-- **Graph-based techniques** for link prediction in multiplex networks.
-
+- **In-context Learning**
+- **Model explainability**
+- **Finetuning Pretrained Models** 
+- **Multilinguality**
+- **Graph-based techniques**
+  
 ---
 
 ## 🔭 Education
-- **Data Science:** Ph.D. Data Science and Engineering.
-- **Mathematics:** B.Sc.(H) Mathematics and M.Sc. Mathematics.
+- **Data Science:** Ph.D. Data Science and Engineering (Currently pursuing)
+- **Mathematics:** B.Sc.(H) Mathematics and M.Sc. Mathematics
 
 ---
 
