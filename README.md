@@ -14,9 +14,9 @@ I’m an NLP researcher with a special focus on **Social NLP** and a bit of **Gr
 
 ## 🌱 Learning and Exploring
 I’m currently diving deeper into:
-- **In-context Learning**
+- **In-context learning**
 - **Model explainability**
-- **Finetuning Pretrained Models** 
+- **Finetuning pretrained models** 
 - **Multilinguality**
 - **Graph-based techniques**
   
