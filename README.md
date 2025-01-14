@@ -19,6 +19,7 @@ I’m currently diving deeper into:
 - **Finetuning pretrained models** 
 - **Multilinguality**
 - **Graph-based techniques**
+- **Building task-specific chatbot**
   
 ---
 
