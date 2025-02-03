@@ -15,6 +15,7 @@ I’m an NLP researcher with a special focus on **Social NLP** and a bit of **Gr
 ## 🌱 Learning and Exploring
 I’m currently diving deeper into:
 - **Instruction tuning**
+- **DPO (Direct Preference Optimization)**
 - **Model editing methods**
 - **In-context learning**
 - **Model explainability**
