@@ -6,8 +6,8 @@ I’m an NLP researcher with a special focus on **Social NLP** and a bit of **Gr
 
 ---
 
-## 🔭 Current Focus
-- **Social NLP:** Exploring the impact of philosophical methods on multilingual LLMs for enhancing NLP tasks (like hate detection) in code-mixed setting.
+## 🔭 Current Focus of Research
+- **Social NLP:** Exploring the impact of philosophical methods on multilingual LLMs for enhancing NLP tasks (like hate, humor and sarcasm detection) in code-mixed setting.
 - **Graph ML:** Exploring link prediction in multiplex networks.
 
 ---
