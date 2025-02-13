@@ -25,7 +25,7 @@ I’ve worked with a range of topics and have hands-on experience in:
 - **In-context learning**
 - **Finetuning pretrained models** 
 - **Multilinguality**
-- **Multiplex networks in graph**
+- **Multiplex networks in graph-ML**
   
 ---
 
