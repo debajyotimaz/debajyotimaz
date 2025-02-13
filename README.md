@@ -17,12 +17,15 @@ I’m currently diving deeper into:
 - **Instruction tuning**
 - **DPO (Direct Preference Optimization)**
 - **Model editing methods**
-- **In-context learning**
 - **Model explainability**
+- **Building task-specific chatbot**
+
+## 🧠 Explored
+I’ve worked with a range of topics and have hands-on experience in:
+- **In-context learning**
 - **Finetuning pretrained models** 
 - **Multilinguality**
-- **Graph-based techniques**
-- **Building task-specific chatbot**
+- **Multiplex networks in graph**
   
 ---
 
