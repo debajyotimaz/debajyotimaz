@@ -12,7 +12,7 @@
 </table>
 
 
-### NLP Researcher | Multi-linguality | Social NLP | Graph ML 
+### NLP Researcher | Multi-linguality | Social NLP 
 
 I’m an NLP researcher with a special focus on **Multi-lingual Social NLP**. 
 
