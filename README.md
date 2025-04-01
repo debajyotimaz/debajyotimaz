@@ -12,9 +12,9 @@
 </table>
 
 
-### NLP Researcher | Social NLP | Graph ML 
+### NLP Researcher | Multi-linguality | Social NLP | Graph ML 
 
-I’m an NLP researcher with a special focus on **Social NLP** and a bit of **Graph Machine Learning** as well. 
+I’m an NLP researcher with a special focus on **Multi-lingual Social NLP**. 
 
 ---
 
