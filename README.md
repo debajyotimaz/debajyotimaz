@@ -25,8 +25,7 @@ I’m an NLP researcher with a special focus on **Multi-lingual Social NLP**.
 
 ## 🌱 Learning and Exploring
 I’m currently diving deeper into:
-- **Instruction tuning**
-- **Model editing methods**
+- **Model interpretability**
 - **Model explainability**
 - **Building task-specific chatbot**
 
