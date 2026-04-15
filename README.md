@@ -26,7 +26,6 @@ I’m an NLP researcher with a special focus on **Multi-lingual Social NLP**.
 ## 🌱 Learning and Exploring
 I’m currently diving deeper into:
 - **Instruction tuning**
-- **DPO (Direct Preference Optimization)**
 - **Model editing methods**
 - **Model explainability**
 - **Building task-specific chatbot**
@@ -34,7 +33,8 @@ I’m currently diving deeper into:
 ## 🧠 Explored
 I’ve worked with a range of topics and have hands-on experience in:
 - **In-context learning**
-- **Finetuning pretrained models** 
+- **Finetuning pretrained models**
+- **GRPO (Group Relative Policy Optimization)**
 - **Multilinguality**
 - **Code-mixing**
 - **Multiplex networks in graph-ML**
