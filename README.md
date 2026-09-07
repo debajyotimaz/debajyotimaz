@@ -31,6 +31,7 @@ I’m currently diving deeper into:
 
 ## 🧠 Explored
 I’ve worked with a range of topics and have hands-on experience in:
+- **Speech and Large Audio Language Models (LALMs)**
 - **In-context learning**
 - **Finetuning pretrained models**
 - **GRPO (Group Relative Policy Optimization)**
