@@ -46,7 +46,7 @@ I’ve worked with a range of topics and have hands-on experience in:
 
 
 ## 🏸 Outside of Research
-When I'm not working on NLP or ML projects, you'll find me enjoying a game of **badminton** 🏸 and staying active. Sometimes, you'll catch me playing **cricket** 🏏 or **football** ⚽ too. 
+When I'm not working on NLP or ML projects, you'll find me enjoying a game of **badminton** 🏸 and staying active.
 
 ---
 
