@@ -3,9 +3,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=debajyotimaz&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
-    </td>
-    <td>
       <img src="https://komarev.com/ghpvc/?username=debajyotimaz" alt="Profile Views" />
     </td>
   </tr>
